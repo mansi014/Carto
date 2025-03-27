@@ -33,6 +33,7 @@ Adding a payment gateway for completing purchases.
 Expanding the product catalog with category filters.
 
 🤝 Acknowledgments
+
 Inspiration for design from modern e-commerce platforms.
 
 Icons provided by FontAwesome.
