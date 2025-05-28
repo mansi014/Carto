@@ -21,7 +21,7 @@ An interactive e-commerce website designed to provide users with a seamless onli
 
 -----
 
-🚀 Features
+## 🚀 Features
 
 User Authentication: Sign up, log in, and log out functionalities with personalized profiles.
 Profile Management: Users can update their details on a dedicated profile page.
@@ -32,7 +32,7 @@ Promotional Banner: Animated promotional banner to highlight special offers.
 
 -----
 
-🛠️ Technology Stack
+## 🛠️ Technology Stack
 
 Frontend: HTML, CSS, JavaScript
 Design: CSS Animations and transitions for enhanced user experience.
@@ -40,13 +40,13 @@ Version Control: Git and GitHub
 
 -----
 
-🎯 Future Improvements
+## 🎯 Future Improvements
 
 Integration with a backend for storing user data and products.
 Adding a payment gateway for completing purchases.
 Expanding the product catalog with category filters.
 
-🤝 Acknowledgments
+## 🤝 Acknowledgments
 
 Inspiration for design from modern e-commerce platforms.
 Icons provided by FontAwesome.
