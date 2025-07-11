@@ -1,5 +1,5 @@
 # Carto
- E-Commerce Website
+## E-Commerce Website
 
 An interactive e-commerce website designed to provide users with a seamless online shopping experience. The project includes user authentication, profile management, a dynamic shopping cart, and a responsive UI/UX design.
 
@@ -50,3 +50,8 @@ An interactive e-commerce website designed to provide users with a seamless onli
 
 - Inspiration for design from modern e-commerce platforms.
 - Icons provided by FontAwesome.
+
+## 🚀 Live on Localhost
+
+Run the app locally on:  
+👉 [http://127.0.0.1:5500/contact.html](http://127.0.0.1:5500/contact.html)
