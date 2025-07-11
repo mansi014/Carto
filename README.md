@@ -9,16 +9,6 @@ An interactive e-commerce website designed to provide users with a seamless onli
 ![Screenshot 2025-05-29 022808](https://github.com/user-attachments/assets/6af7ce76-485b-4a80-a2e5-2574249a9a17)
 
 
-![Screenshot 2025-05-29 021406](https://github.com/user-attachments/assets/128a8dad-ab81-4524-be32-001b393f9ff6)
-
-
-![Screenshot 2025-05-29 021557](https://github.com/user-attachments/assets/d0040785-42db-40c4-9a49-49e8645aa544)
-
-
-![Screenshot 2025-05-29 021440](https://github.com/user-attachments/assets/6bc98059-173f-4250-a420-77070643a872)
-
-
-
 -----
 
 ## 🚀 Features
@@ -54,4 +44,4 @@ An interactive e-commerce website designed to provide users with a seamless onli
 ## 🚀 Live on Localhost
 
 Run the app locally on:  
-👉 [http://127.0.0.1:5500/contact.html](http://127.0.0.1:5500/index.html)
+👉 [http://127.0.0.1:5500/index.html](http://127.0.0.1:5500/index.html)
