@@ -54,4 +54,4 @@ An interactive e-commerce website designed to provide users with a seamless onli
 ## 🚀 Live on Localhost
 
 Run the app locally on:  
-👉 [http://127.0.0.1:5500/contact.html](http://127.0.0.1:5500/contact.html)
+👉 [http://127.0.0.1:5500/contact.html](http://127.0.0.1:5500/index.html)
